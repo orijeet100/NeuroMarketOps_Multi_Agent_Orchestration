@@ -1,0 +1,17 @@
+pandas
+langchain
+transformers
+torch
+accelerate
+bitsandbytes
+langchain-community
+vanna
+chromadb
+boto3
+sentence_transformers
+awscli
+faiss-cpu
+streamlit
+rank_bm25
+nltk
+crewai

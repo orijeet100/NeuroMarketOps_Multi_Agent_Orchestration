@@ -1,0 +1,23 @@
+prompts:
+
+
+RAG inventory  manager:
+
+1. Who are you
+
+2. What can you help me with exactly?
+
+3. What are the dimensions of AeroTech,Pulse 17.0,Jet?
+
+4. Do we have SkyLine Aerospace SkyRanger 27
+
+
+
+Marketing Agent:
+
+1. Make a post on airbus.
+
+2. Here are benefits of SkyLine Aerospace SkyRanger 30: Excellent Fuel Efficiency (21.7 km/L) • Short-Haul Capabilities & Long Range Flight Options. Make a twitter post for that.
+
+3. Now make a short LinkedIn for SkyLine Aerospace SkyRanger 30.
+

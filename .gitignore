@@ -1,0 +1,165 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+.venv/
+venv/
+ENV/
+env/
+.venv.bak/
+venv.bak/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environment Variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# API Keys and Secrets
+*.key
+*.pem
+secrets.json
+config.json
+
+# Large Data Files
+*.csv
+*.xlsx
+*.xls
+*.parquet
+*.h5
+*.hdf5
+*.pkl
+*.pickle
+*.joblib
+
+# Vector Indices and Embeddings
+*.idx
+*.faiss
+*.bin
+embeddings/
+vector_store/
+
+# Model Files
+*.pt
+*.pth
+*.onnx
+*.tflite
+*.pb
+models/
+checkpoints/
+saved_models/
+
+# AWS and Cloud
+.aws/
+aws_credentials
+*.pem
+
+# Logs
+*.log
+logs/
+log/
+
+# Temporary Files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# OS Generated Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Database Files
+*.db
+*.sqlite
+*.sqlite3
+
+# Backup Files
+*.bak
+*.backup
+*.old
+
+# Large Binary Files
+*.bin
+*.dat
+*.data
+
+# Training Data
+train*.jsonl
+test*.jsonl
+validation*.jsonl
+
+# Model Checkpoints
+checkpoint/
+checkpoints/
+runs/
+wandb/
+
+# Specific to this project
+marketing_metadata.pkl
+marketing_faiss.idx
+inventory_metadata.pkl
+inventory_faiss.idx
+inventory_bm25.pkl
+fine_tuned_model/
+llama-3-1-8b-instruct-*/
+jumpstart-dft-llama-*/
+raw_data/*.csv
+
+# Documentation
+docs/_build/
+
+# Coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/ 
