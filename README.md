@@ -5,8 +5,12 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 
 ## 🎥 Demo Videos
 
-### Demo 1: Self Fine tuned LLM Expert
-**Drive Link**: [AI Marketing Agent - Basic Demo](https://drive.google.com/file/d/your-demo-1-link/view)
+### Demo 1: Self Fine tuned LLM RAG Expert
+
+[![part_a](part_a.png)](https://drive.google.com/file/d/1E-NLidsZI2PmoSB6m8bbMp4xmJiOIwGE/view?usp=drive_link)
+
+
+**Drive Link**: [AI Marketing Agent - Basic Demo](https://drive.google.com/file/d/1E-NLidsZI2PmoSB6m8bbMp4xmJiOIwGE/view?usp=drive_link)
 
 **Features Demonstrated**:
 - Aircraft inventory search
@@ -14,7 +18,11 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 - Basic query processing
 
 ### Demo 2: Multi-Agent Orchestration Framework
-**Drive Link**: [AI Marketing Agent - Advanced Demo](https://drive.google.com/file/d/your-demo-2-link/view)
+
+[![part_a](part_b.png)](https://drive.google.com/file/d/1BaTdJGze1rDVNiby7cOIKokWfgHtRN0e/view?usp=drive_link)
+
+
+**Drive Link**: [AI Marketing Agent - Advanced Demo](https://drive.google.com/file/d/1BaTdJGze1rDVNiby7cOIKokWfgHtRN0e/view?usp=drive_link)
 
 **Features Demonstrated**:
 - CrewAI multi-agent workflow
