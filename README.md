@@ -12,7 +12,6 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 - Aircraft inventory search
 - Marketing content generation
 - Basic query processing
-- Interface navigation
 
 ### Demo 2: Multi-Agent Orchestration Framework
 **Drive Link**: [AI Marketing Agent - Advanced Demo](https://drive.google.com/file/d/your-demo-2-link/view)
