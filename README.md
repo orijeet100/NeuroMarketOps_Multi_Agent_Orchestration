@@ -5,7 +5,7 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 
 ## 🎥 Demo Videos
 
-### Demo 1: Self Fine tuned LLM RAG Expert
+### Demo 1: Self Fine tuned LLM RAG Expert / AeroGenAI – Synthetic Data Generation and Smart RAG System for Aviation Intelligence
 
 <a href="https://drive.google.com/file/d/1E-NLidsZI2PmoSB6m8bbMp4xmJiOIwGE/view?usp=drive_link"><img src="part_a.png" alt="part_a" width="70%"></a>
 
@@ -17,7 +17,7 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 - Marketing content generation
 - Basic query processing
 
-### Demo 2: Multi-Agent Orchestration Framework
+### Demo 2: NeuroMarketOps – Multi-Agent Orchestration for Marketing & Inventory Automation
 
 <a href="https://drive.google.com/file/d/1BaTdJGze1rDVNiby7cOIKokWfgHtRN0e/view?usp=drive_link"><img src="part_b.png" alt="part_b" width="70%"></a>
 
