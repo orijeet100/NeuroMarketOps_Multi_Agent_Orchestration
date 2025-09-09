@@ -17,7 +17,7 @@ An intelligent AI-powered system that combines CrewAI agents with advanced RAG (
 - Marketing content generation
 - Basic query processing
 
-### Demo 2: NeuroMarketOps – Multi-Agent Orchestration for Marketing & Inventory Automation
+### Demo 2: NeuroMarketOps – Multi-Agent Orchestration for Marketing & Inventory Automations
 
 <a href="https://drive.google.com/file/d/1BaTdJGze1rDVNiby7cOIKokWfgHtRN0e/view?usp=drive_link"><img src="part_b.png" alt="part_b" width="70%"></a>
 
